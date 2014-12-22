@@ -1,4 +1,4 @@
-# Custom Blogger Images Plugin
+# Custom blogger images Plugin
 
 Custom blogger images adds extra image sizes & golden ratio proportions to your Wordpress themes. 
 
@@ -40,7 +40,7 @@ Make use use of Imagesizes for Wordpress Child themes using functions.php by pul
 * Initial Version
 
 
-## Contact ==
+## Contact
 
 twitter: [@GuntramBechtold](http://twitter.com/guntrambechtold "Follow Guntram on Twitter for latest updates") 
 view on Github: [Custom Images on Github](https://github.com/gbechtold/wordpress_plugin_custom_images "Get more here") 
