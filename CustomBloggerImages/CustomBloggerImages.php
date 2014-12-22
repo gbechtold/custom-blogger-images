@@ -1,9 +1,9 @@
 <?php
 
 /*
-* Plugin Name: Custom Images
+* Plugin Name: Custom blogger Images
 * Plugin URI: http://www.starsmedia.com/CustomImages/
-* Description: Add Custom Fibonacci Image Sizes to your Themes
+* Description: Add Custom blogger Image Sizes to your Themes
 * Version: 1.0
 * Author: Guntram Bechtold
 * Author URI: http://www.starsmedia.com/
